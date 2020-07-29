@@ -15,3 +15,5 @@
 ## [Asana](https://asana.com/jobs/apply/2191025/new-graduate--software-engineering-------start-)
 
 ## [vmware](https://www.1point3acres.com/bbs/thread-652070-1-1.html)
+
+## [cloudera](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Santa-Clara-2/Software-Engineer--Hive--New-College-Grad-_200855-1)
