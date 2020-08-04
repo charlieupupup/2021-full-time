@@ -17,3 +17,31 @@
 ## [vmware](https://www.1point3acres.com/bbs/thread-652070-1-1.html)
 
 ## [cloudera](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-California-Santa-Clara-2/Software-Engineer--Hive--New-College-Grad-_200855-1)
+
+## [akuna Junior Developer - Data Infrastructure Engineering chicago](https://akunacapital.com/job-details?gh_jid=2211258)
+
+## [akuna Junior Quantitative Developer chicago](https://akunacapital.com/job-details?gh_jid=2231482)
+
+## [akuna Junior Developer - C++ chicago](https://akunacapital.com/job-details?gh_jid=2229496)
+
+## [akuna Junior Quantitative Developer boston](https://akunacapital.com/job-details?gh_jid=2231485)
+
+## [akuna  Junior Developer](https://akunacapital.com/job-details?gh_jid=2236978)
+
+## [akuna web](https://akunacapital.com/job-details?gh_jid=2229602)
+
+## [citadel SE](https://www.citadel.com/careers/details/software-engineering-rotation-program-full-time-us/)
+
+## [factset SE campus](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Norwalk-CT-USA/Software-Engineer---US-Campus_R3381)
+
+## [wish SE](https://jobs.smartrecruiters.com/Wish/743999716337373)
+
+## [ibm research SE](https://careers.ibm.com/ShowJob/Id/955996/2021-Research-Software-Engineer/)
+
+## [ibm Lab Engineer](https://careers.ibm.com/ShowJob/Id/953348/Lab-Engineer/)
+
+## [Doordash front end](https://boards.greenhouse.io/doordash/jobs/19449)
+
+## [nuro](https://nuro.ai/careersitem?gh_jid=1781556)
+
+## [citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)
