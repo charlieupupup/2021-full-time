@@ -45,3 +45,49 @@
 ## [nuro](https://nuro.ai/careersitem?gh_jid=1781556)
 
 ## [citrix](https://jobs.citrix.com/job/R22177/University-Software-Engineer-2021)
+
+## [ixl SE](https://www.ixl.com/company/careers?gh_jid=4776947002)
+
+## [ixl SE](https://www.ixl.com/company/careers?gh_jid=4777172002)
+
+## [qualtrics se](https://www.qualtrics.com/careers/us/en/apply?jobSeqNo=QUALUS180276EXTERNALENUS)
+
+## [qualtrics se](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA)
+
+## [qualtrics test engineerer](https://www.qualtrics.com/careers/us/en/job/1854370/Software-Test-Engineer-New-Grad)
+
+## [robinhood android](https://careers.robinhood.com/openings?gh_jid=2223637)
+
+## [robinhood backend](https://careers.robinhood.com/openings?gh_jid=2214220)
+
+## [robinhood auto](https://careers.robinhood.com/openings?gh_jid=2214234)
+
+## [robin auto](https://careers.robinhood.com/openings?gh_jid=2274767)
+
+## [robin data](https://careers.robinhood.com/openings?gh_jid=2214238)
+
+## [robin security](https://careers.robinhood.com/openings?gh_jid=2214433)
+
+## [robin soft plat](https://careers.robinhood.com/openings?gh_jid=2214430)
+
+## [robin web](https://careers.robinhood.com/openings?gh_jid=2214452)
+
+## [amazon sde](https://www.amazon.jobs/en/jobs/1204412/software-development-engineer-2021-united-states)
+
+## [ama test](https://www.amazon.jobs/en/jobs/1113309/software-development-engineer-test)
+
+## [ama embeded](https://www.amazon.jobs/en/jobs/1198457/software-development-engineer-embedded)
+
+## [scale ai](https://scale.com/careers/41e05b90-7e65-4dac-8676-50be9c1afc27)
+
+## [cisco](https://jobs.cisco.com/jobs/ProjectDetail/Network-Engineer-Full-Time-United-States/1296801?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+students-and-new-graduate-programs)
+
+## [cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1295851&user=1)
+
+## [cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1298744&user=1)
+
+## [cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1297624&user=1)
+
+## [cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Master-s-Full-Time-United-States/1295251?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+students-and-new-graduate-programs)
+
+## [simplilife](https://careers.simplisafe.com/job/?job_id=1812977)
