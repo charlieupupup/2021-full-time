@@ -91,3 +91,5 @@
 ## [cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Master-s-Full-Time-United-States/1295251?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+students-and-new-graduate-programs)
 
 ## [simplilife](https://careers.simplisafe.com/job/?job_id=1812977)
+
+## [stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)
