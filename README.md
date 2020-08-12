@@ -93,3 +93,5 @@
 ## [simplilife](https://careers.simplisafe.com/job/?job_id=1812977)
 
 ## [stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)
+
+## (hotspot)(https://www.hubspot.com/careers/jobs/844714?hubs_signup-cta=careers-apply)
