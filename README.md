@@ -95,3 +95,9 @@
 ## [stripe](https://stripe.com/jobs/listing/2021-new-grad-engineer/2162716)
 
 ## (hotspot)(https://www.hubspot.com/careers/jobs/844714?hubs_signup-cta=careers-apply)
+
+## (neeva)(https://jobs.lever.co/neeva/d95ffe9a-0717-49a0-be61-e59c5bf01b49)
+
+## (de shaw)(https://www.deshaw.com/careers/choose-your-path)
+
+## [optiver](https://www.optiver.com/eu/en/job-opportunities/eu-510831)
