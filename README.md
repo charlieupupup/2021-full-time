@@ -101,3 +101,11 @@
 ## (de shaw)(https://www.deshaw.com/careers/choose-your-path)
 
 ## [optiver](https://www.optiver.com/eu/en/job-opportunities/eu-510831)
+
+## [jane](https://www.janestreet.com/join-jane-street/position/4743431002/)
+
+## (jane)(https://www.janestreet.com/join-jane-street/position/4439910002/)
+
+## [2sigma](https://careers.twosigma.com/careers/DashJobDetail?jobId=714)
+
+## [2sigma](https://careers.twosigma.com/careers/ApplicationFormUs?jobId=6674)
