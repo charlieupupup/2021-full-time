@@ -100,7 +100,9 @@
 
 ## (de shaw)(https://www.deshaw.com/careers/choose-your-path)
 
-## [optiver](https://www.optiver.com/eu/en/job-opportunities/eu-510831)
+## [optiver](https://www.optiver.com/na/en/job-opportunities/us-4798670002)
+
+## [optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002)
 
 ## [jane](https://www.janestreet.com/join-jane-street/position/4743431002/)
 
