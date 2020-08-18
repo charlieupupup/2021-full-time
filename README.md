@@ -111,3 +111,5 @@
 ## [2sigma](https://careers.twosigma.com/careers/DashJobDetail?jobId=714)
 
 ## [2sigma](https://careers.twosigma.com/careers/ApplicationFormUs?jobId=6674)
+
+## [ms](https://careers.microsoft.com/students/us/en/job/870956/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Software-Engineer)
